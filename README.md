@@ -1,4 +1,13 @@
+This is our Full Stack SOIL Website for Assignment 2 Full Stack Development, created by Ryan D'Mello and Joshua Escaran.
 
+To run the project:
+
+- Head into the /express directory and run 'node server.js' to start the backend
+- Head into the /my-app directory and run 'npm start' to start the frontend / React instance 
+
+
+
+Our Project Tree:
 ```
 Bootstrap Full Stack
 ├─ express
@@ -59,3 +68,16 @@ Bootstrap Full Stack
 └─ package.json
 
 ```
+
+REFERENCES: 
+Soil Logo: soilLogo3.png
+
+Soil logo has been created with Canva Online logo maker https://www.canva.com/create/logos/
+
+SVG images:
+
+logo.svg signin.svg graphicSVG.svg
+
+Sourced from:
+
+https://undraw.co/illustrations
